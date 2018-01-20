@@ -51,3 +51,7 @@ To run xv6, install the QEMU PC simulators.  To run in QEMU, run "make qemu".
 
 To create a typeset version of the code, run "make xv6.pdf".  This
 requires the "mpage" utility.  See http://www.mesa.nl/pub/mpage/.
+
+CHANGES FOR THE SCHEDULER
+
+To understand the changes required for the scheduler, read Lab1Report-1.pdf file. 
